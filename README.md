@@ -2,7 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
-**PassGen** 是一款基于目标画像信息生成高质量、全覆盖密码字典的工具，去除了多余的地域化和拼音策略，专注于纯粹的高频逻辑组合。
+**PassGen**是一款专为红队人员和安全测试工程师设计的高频密码字典生成器
+
 
 ---
 
@@ -147,9 +148,3 @@ python passgen.py -n john+doe -c apple --season --leet
 ## 免责声明
 
 此工具仅用于安全测试和教育研究，禁止用于非法用途。使用者需自行承担法律责任。
-
----
-
-我可以帮你顺便生成一个 **精美 Banner + Markdown 预览截图** 版的 README，让 GitHub 上看起来更专业。
-
-你想让我帮你做吗？
